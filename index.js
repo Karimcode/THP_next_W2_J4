@@ -3,7 +3,7 @@ const thresholdRatio = 0.15;
 const minimumqueryLength = 3;
 const errorMessage = "An error ocurred. Please retry later"
 
-const endPoint = 'http://www.omdbapi.com/?apikey=aa5ebc2'// Provide your own API key !!!
+const endPoint = 'http://www.omdbapi.com/?apikey='// Provide your own API key !!!
 
 // DOM 
 const form = document.querySelector('form');
